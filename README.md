@@ -16,7 +16,7 @@ A minimalisitic logger module for basic logging, written in Go.
 package main
 
 import (
-    "github.com/pravinba9495/logger"
+    "github.com/aheeva/logger"
 )
 
 func main() {
