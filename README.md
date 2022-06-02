@@ -40,7 +40,7 @@ func main() {
 ```
 
 ## Documentation
-Logger documentation is hosted at [Read the docs](https://pkg.go.dev/github.com/pravinba9495/logger).
+Logger documentation is hosted at [Read the docs](https://pkg.go.dev/github.com/aheeva/logger).
 
 ## Development
 Logger is still under development. Contributions are always welcome!
