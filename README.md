@@ -1,5 +1,5 @@
 # logger
-[![Go Reference](https://pkg.go.dev/badge/github.com/pravinba9495/logger.svg)](https://pkg.go.dev/github.com/pravinba9495/logger) ![Go Report Card](https://goreportcard.com/badge/github.com/pravinba9495/logger) ![Issues](https://img.shields.io/github/issues-raw/pravinba9495/logger) ![License](https://img.shields.io/github/license/pravinba9495/logger) ![Release](https://img.shields.io/github/v/release/pravinba9495/logger?include_prereleases)
+[![Go Reference](https://pkg.go.dev/badge/github.com/aheeva/logger.svg)](https://pkg.go.dev/github.com/aheeva/logger) ![Go Report Card](https://goreportcard.com/badge/github.com/aheeva/logger) ![Issues](https://img.shields.io/github/issues-raw/aheeva/logger) ![License](https://img.shields.io/github/license/aheeva/logger) ![Release](https://img.shields.io/github/v/release/aheeva/logger?include_prereleases)
 
 A minimalisitic logger module for basic logging, written in Go.
 
